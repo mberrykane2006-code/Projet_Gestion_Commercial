@@ -1,5 +1,5 @@
-CREATE DATABASE GestionCommande;
-USE GestionCommande;
+CREATE DATABASE groupe1;
+USE groupe1;
 
 -- Table Client
 CREATE TABLE Client (
